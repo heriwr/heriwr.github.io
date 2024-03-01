@@ -35,7 +35,7 @@ pre {
 }
 
 .markdown-section p.warn {
-  background: #f8f8f8; /* Maintain existing light gray background */
+  background: #cccccc; /* Maintain existing light gray background */
 }
 
 .markdown-section table {
