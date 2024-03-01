@@ -1,14 +1,12 @@
-const toggleIcons = document.querySelectorAll('.dark-mode-switch i');
+const toggle = document.getElementById('dark-mode-toggle');
 
-toggleIcons.forEach(icon => {
-  icon.addEventListener('click', () => {
-    document.documentElement.classList.toggle('dark-mode');
-    toggleIcons.forEach(i => i.classList.toggle('active'));
-  });
+toggle.addEventListener('change', () => {
+  document.body.classList.toggle('dark-mode'); // Use body instead of the root 
+  localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
 });
 
-// Add dark-mode class to body for initial dark mode support (optional)
+// Initial dark mode setup on page load
 if (localStorage.getItem('darkMode') === 'true') {
-  document.documentElement.classList.add('dark-mode');
-  toggleIcons.forEach(i => i.classList.remove('active')); // Adjust active state for dark mode on load
+  document.body.classList.add('dark-mode');
+  toggle.checked = true;
 }
