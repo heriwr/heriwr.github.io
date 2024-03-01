@@ -79,7 +79,7 @@ section.cover .cover-main > p:last-child a:last-child {
 .token.unit,
 section.cover .cover-main > p:last-child a,
 section.cover blockquote > p > a:hover {
-  color: #8B0000; /* Maintain red for text */
+  color: #e74c3c; /* Maintain red for text */
 }
 
 .app-nav a:active,
