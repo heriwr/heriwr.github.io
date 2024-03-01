@@ -1,5 +1,5 @@
 - [Home](/)
-- [Chapter I. First Steps](/pages/first-steps.md)
+- [Chapter I. First Steps](first-steps.md)
 - [Chapter II. Character](/pages/character.md)
   - [Name](/pages/names.md)
   - [Calling](/pages/calling.md)
