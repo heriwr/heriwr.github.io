@@ -11,9 +11,8 @@
   -  [Combat](combat.md)
   -  [Magic](magic.md)
   -  [Crafting](crafting.md)
-  -  
 - [Chapter IV. Procedures](procedures.md)
-  -   
+  - [Test](Test.md)   
 - [Chapter V. Mynyddmor](mynyddmor.md)
 - [Chapter VI. Oracles](oracles.md)
 
