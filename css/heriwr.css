@@ -7,13 +7,14 @@
   --dark-text-color: #ede0dd; /* Dark mode text color */
 }
 
-/* Base styles */
+/* Base styles (apply to both modes) */
 body {
   font-family: "Lora", Arial, sans-serif;
   font-style: normal;
   font-variant: normal;
   background-color: var(--bg-color);
   color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease; /* Add transition */
 }
 
 /* List items */
@@ -102,15 +103,11 @@ section.cover .cover-main > p:last-child a {
   border-color: var(--accent-color);
 }
 
-/* Dark mode styles (optional) */
-.dark-mode {
+/* Dark mode styles */
+body.dark-mode { /* Target body explicitly when in dark mode */
   --bg-color: var(--dark-bg-color);
   --text-color: var(--dark-text-color);
-
-  body {
-    background-color: var(--bg-color);
-    color: var(--text-color);
-  }
+}
 
   .markdown-section blockquote {
     border-left-color: #DDD; /* Adjust border color for dark background */
