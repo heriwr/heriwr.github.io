@@ -104,28 +104,28 @@ section.cover .cover-main > p:last-child a {
 }
 
 /* Dark mode styles */
-body.dark-mode { /* Target body explicitly when in dark mode */
+body.dark-mode { 
   --bg-color: var(--dark-bg-color);
   --text-color: var(--dark-text-color);
-}
 
+  /* Adjusted styles for dark mode */
   .markdown-section blockquote {
-    border-left-color: #DDD; /* Adjust border color for dark background */
+    border-left-color: #DDD; 
   }
 
   .progress,
   .sidebar-toggle span,
   section.cover .cover-main > p:last-child a:last-child {
-    background-color: #333; /* Adjust background color for dark mode */
+    background-color: #333; 
   }
 
-  /* ... Update other styles as needed for dark mode ... */
+  /* ... Add more dark mode styles as needed ... */
 }
 
 .dark-mode-switch {
-  position: fixed; /* Keep switch in a fixed position */
-  right: 20px; /* Place it 20px from the right edge */
-  top: 20px; /* Place it 20px from the top edge */
+  position: fixed; 
+  right: 20px; 
+  top: 20px; 
 }
 
 /* Hide the default checkbox */
@@ -135,12 +135,12 @@ body.dark-mode { /* Target body explicitly when in dark mode */
 
 /* Style the sun and moon icons */
 .dark-mode-switch label::before {
-  content: "\f185"; /* Font Awesome sun icon code */
+  content: "\f185"; 
   font-family: "Font Awesome 5 Free";
-  font-weight: 900; /* Use solid version of the icon */
+  font-weight: 900; 
   display: inline-block;
 }
 
 .dark-mode-switch input[type="checkbox"]:checked + label::before {
-  content: "\f186"; /* Font Awesome moon icon code */
+  content: "\f186"; 
 }
