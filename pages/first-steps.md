@@ -1,0 +1,27 @@
+# Chapter I. First Steps
+
+## How do you play?
+
+One player is the **Cyfarwydd**. They set the scene and open the world to questions and exploration, asking **"what do you next?"**
+
+The other players interact with the world and roll dice to determine the outcome of their actions.
+
+The Cyfarwydd guides the players through an adventure while the players make meaningful choices.
+
+The goal of the Player Characters (PCs) is to find treasure and to avoid a messy death.
+
+## What do you need?
+
+A pencil, paper, and a six-sided die (d6).
+
+If you want the best out of the game, however, have at least seven six-sided die, with at least two different colours.
+
+## Character Creation
+
+You start with a handful of coins.
+
+Roll for...
+
+1. A name (page x.x).
+2. A calling (x.x).
+3. A homeland (x.x).
