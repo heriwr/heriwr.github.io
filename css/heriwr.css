@@ -8,14 +8,14 @@ li {
   font-size: 14px;
   font-weight: 400;
   line-height: 20px;
-  color: #D80032; /* Black for text */
+  color: #280000; /* Black for text */
 }
 
 pre {
   font-size: 13px;
   font-weight: 400;
   line-height: 18.5714px;
-  color: #D80032; /* Black for text */
+  color: #280000; /* Black for text */
 }
 
 .markdown-section blockquote {
@@ -41,13 +41,13 @@ pre {
 
 .markdown-section th {
   text-transform: uppercase;
-  color: #D80032; /* Black for text */
+  color: #280000; /* Black for text */
 }
 
 .markdown-section td,
 .markdown-section th {
   text-align: left;
-  color: #D80032; /* Black for text */
+  color: #280000; /* Black for text */
 }
 
 .progress,
