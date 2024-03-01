@@ -2,7 +2,7 @@
 - [Chapter I. First Steps](first-steps.md)
 - [Chapter II. Character](character.md)
   - [Name](names.md)
-  - [Calling](calling.md)
+  - [Calling](/pages/calling.md)
   - [Bond](/bonds.md)
   - [Omen](omen.md)
   - [Marketplace](marketplace.md)
