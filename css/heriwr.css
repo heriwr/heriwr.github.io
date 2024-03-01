@@ -8,14 +8,14 @@ li {
   font-size: 14px;
   font-weight: 400;
   line-height: 20px;
-  color: #201a19; /* Black for text */
+  color: #D80032; /* Black for text */
 }
 
 pre {
   font-size: 13px;
   font-weight: 400;
   line-height: 18.5714px;
-  color: #201a19; /* Black for text */
+  color: #D80032; /* Black for text */
 }
 
 .markdown-section blockquote {
@@ -27,11 +27,11 @@ pre {
 }
 
 .markdown-section em {
-  color: #fffbff; /* Light gray for emphasis */
+  color: #FFF8F0; /* Light gray for emphasis */
 }
 
 .markdown-section p.warn {
-  background: #fffbff; /* Maintain existing light gray background */
+  background: #FFF8F0; /* Maintain existing light gray background */
 }
 
 .markdown-section table {
@@ -41,19 +41,19 @@ pre {
 
 .markdown-section th {
   text-transform: uppercase;
-  color: #201a19; /* Black for text */
+  color: #D80032; /* Black for text */
 }
 
 .markdown-section td,
 .markdown-section th {
   text-align: left;
-  color: #201a19; /* Black for text */
+  color: #D80032; /* Black for text */
 }
 
 .progress,
 .sidebar-toggle span,
 section.cover .cover-main > p:last-child a:last-child {
-  background-color: #fffbff; /* Red for background */
+  background-color: #FFF8F0; /* Red for background */
 }
 
 .search a:hover,
