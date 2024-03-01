@@ -55,6 +55,7 @@
 - [Chapter IV. Procedures](procedures.md)
   - [Test](Test.md)   
 - [Chapter V. Mynyddmor](mynyddmor.md)
+  - [Gorsedd](gorsedd.md)
 - [Chapter VI. Oracles](oracles.md)
 
 - [Resources](resources.md)
