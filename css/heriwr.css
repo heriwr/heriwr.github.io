@@ -1,61 +1,71 @@
+/* Base styles */
 body {
-  font-family: "Lora";
+  font-family: "Lora", Arial, sans-serif; /* Include fallback fonts */
   font-style: normal;
   font-variant: normal;
 }
 
+/* List items */
 li {
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 20px;
-  color: #280000; /* Black for text */
+  font-size: 16px; /* Slightly larger for better readability */
+  font-weight: normal; /* Consistent weight with body */
+  line-height: 1.25; /* Slightly larger for better spacing */
+  color: #333; /* Darker gray for improved contrast */
 }
 
+/* Preformatted text */
 pre {
-  font-size: 13px;
-  font-weight: 400;
-  line-height: 18.5714px;
-  color: #280000; /* Black for text */
+  font-size: 14px; /* Slightly larger for readability */
+  font-weight: normal;
+  line-height: 1.5; /* Consistent spacing with other elements */
+  color: #333; /* Darker gray for improved contrast */
 }
 
+/* Blockquotes */
 .markdown-section blockquote {
-  border-left: 4px solid #e74c3c; /* Red for border */
+  border-left: 4px solid #e74c3c; /* Maintain red border */
+  padding: 10px 20px; /* Add padding for better separation */
 }
 
+/* Headings */
 .markdown-section h1 {
-  margin-top: 50px;
+  margin-top: 40px; /* Adjust margin based on overall design */
 }
 
+/* Emphasis */
 .markdown-section em {
-  color: #FFF8F0; /* Light gray for emphasis */
+  color: #666; /* Subtler gray for emphasis */
 }
 
+/* Warn paragraphs */
 .markdown-section p.warn {
-  background: #FFF8F0; /* Maintain existing light gray background */
+  background: #FFF8F0; /* Maintain light gray background */
+  padding: 10px; /* Add padding for better separation */
 }
 
+/* Tables */
 .markdown-section table {
-  display: table;
-  width: 100%;
+  width: 100%; /* Maintain full width */
+  border-collapse: collapse; /* Improve table appearance */
 }
 
-.markdown-section th {
-  text-transform: uppercase;
-  color: #280000; /* Black for text */
-}
-
-.markdown-section td,
-.markdown-section th {
+.markdown-section th,
+.markdown-section td {
   text-align: left;
-  color: #280000; /* Black for text */
+  padding: 5px 10px; /* Add padding for readability */
+  border: 1px solid #ddd; /* Add subtle border for better separation */
+  color: #333; /* Darker gray for improved contrast */
 }
 
+/* Interactive elements */
 .progress,
 .sidebar-toggle span,
 section.cover .cover-main > p:last-child a:last-child {
-  background-color: #FFF8F0; /* Red for background */
+  background-color: #FFF8F0; /* Maintain light gray background */
+  border: 1px solid #e74c3c; /* Add subtle red border */
 }
 
+/* Links */
 .search a:hover,
 .search .search-keyword,
 .app-nav a:hover,
@@ -69,14 +79,14 @@ section.cover .cover-main > p:last-child a:last-child {
 .token.unit,
 section.cover .cover-main > p:last-child a,
 section.cover blockquote > p > a:hover {
-  color: #8B0000; /* Red for text */
+  color: #8B0000; /* Maintain red for text */
 }
 
 .app-nav a:active,
 section.cover blockquote > p > a {
-  border-bottom: 2px solid #e74c3c; /* Red for border */
+  border-bottom: 2px solid #e74c3c; /* Maintain red border */
 }
 
 section.cover .cover-main > p:last-child a {
-  border-color: #e74c3c; /* Red for border */
+  border-color: #e74c3c; /* Maintain red border */
 }
