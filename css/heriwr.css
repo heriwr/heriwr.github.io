@@ -124,3 +124,26 @@ section.cover .cover-main > p:last-child a {
 
   /* ... Update other styles as needed for dark mode ... */
 }
+
+.dark-mode-switch {
+  position: fixed; /* Keep switch in a fixed position */
+  right: 20px; /* Place it 20px from the right edge */
+  top: 20px; /* Place it 20px from the top edge */
+}
+
+/* Hide the default checkbox */
+.dark-mode-switch input[type="checkbox"] {
+  display: none;
+}
+
+/* Style the sun and moon icons */
+.dark-mode-switch label::before {
+  content: "\f185"; /* Font Awesome sun icon code */
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900; /* Use solid version of the icon */
+  display: inline-block;
+}
+
+.dark-mode-switch input[type="checkbox"]:checked + label::before {
+  content: "\f186"; /* Font Awesome moon icon code */
+}
