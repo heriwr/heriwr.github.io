@@ -19,34 +19,34 @@
   - [16. Soulbearer](16-soulbearer.md)
   - [21. Crystal Wizard](21-crystal-wizard.md)
   - [22. Hexbane](22-hexbane.md)
-Bloodchanter: 23-bloodchanter.md
-Ovate: 24-ovate.md
-Alchemist: 25-alchemist.md
-Spirit Warden: 26-spirit-warden.md
-Blessed of Water: 31-blessed-of-water.md
-Godling: 32-godling.md
-Fungal Forager: 33-fungal-forager.md
-Bard: 34-bard.md
-Reliquarian: 35-reliquarian.md
-Greenwise: 36-greenwise.md
-Bonekeeper: 41-bonekeeper.md
-Beast Handler: 42-beast-handler.md
-Kettlewright: 43-kettlewright.md
-Bag of Bones: 44-bag-of-bones.md
-Barber Surgeon: 45-barber-surgeon.md
-Devoted: 46-devoted.md
-Fieldwarden: 51-fieldwarden.md
-Fletchwind: 52-fletchwind.md
-Foundling: 53-foundling.md
-Grimblade: 54-grimblade.md
-Ladrata: 55-ladrata.md
-Marchguard: 56-marchguard.md
-Twyllawdr: 61-twyllawdr.md
-Outrider: 62-outrider.md
-Prowler: 63-prowler.md
-Rig: 64-rig.md
-Rill Runner: 65-rill-runner.md
-Scrivener: 66-scrivener.md
+  - [23. Bloodchanter](23-bloodchanter.md)
+  - [24. Ovate](24-ovate.md)
+  - [25. Alchemist](25-alchemist.md)
+  - [26. Spirit Warden](26-spirit-warden.md)
+  - [31. Blessed of Water](31-blessed-of-water.md)
+  - [32. Godling](32-godling.md)
+  - [33. Fungal Forager](33-fungal-forager.md)
+  - [34. Bard](34-bard.md)
+  - [35. Reliquarian](35-reliquarian.md)
+  - [36. Greenwise](36-greenwise.md)
+  - [41. Bonekeeper](41-bonekeeper.md)
+  - [42. Beast Handler](42-beast-handler.md)
+  - [43. Kettlewright](43-kettlewright.md)
+  - [44. Bag of Bones](44-bag-of-bones.md)
+  - [45. Barber Surgeon](45-barber-surgeon.md)
+  - [46. Devoted](46-devoted.md)
+  - [51. Fieldwarden](51-fieldwarden.md)
+  - [52. Fletchwind](52-fletchwind.md)
+  - [53. Foundling](53-foundling.md)
+  - [54. Grimblade](54-grimblade.md)
+  - [55. Ladrata](55-ladrata.md)
+  - [56. Marchguard](56-marchguard.md)
+  - [61. Twyllawdr](61-twyllawdr.md)
+  - [62. Outrider](62-outrider.md)
+  - [63. Prowler](63-prowler.md)
+  - [64. Rig](64-rig.md)
+  - [65. Rill Runner](65-rill-runner.md)
+  - [66. Scrivener](66-scrivener.md)
 - [Chapter III. Core Rules](core-rules.md)
   -  [Basic Rules](basic-rules.md)
   -  [Combat](combat.md)
