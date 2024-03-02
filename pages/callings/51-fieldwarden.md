@@ -1,13 +1,4 @@
----
-title: Fieldwarden
-layout: default
-nav_exclude: true
-search_exclude: true
-parent: Backgrounds
-grand_parent: WIP
----
-
-# Fieldwarden
+# 51. Fieldwarden
 
 > Protectors of the harvest, defense against pests, thieves, and beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives. Roll a second time on the **Bonds** table. 
 
