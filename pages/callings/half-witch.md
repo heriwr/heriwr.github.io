@@ -1,12 +1,3 @@
----
-title: Half Witch
-layout: default
-nav_exclude: true
-search_exclude: true
-parent: Backgrounds
-grand_parent: WIP
----
-
 # Half Witch
 
 > Born of both the mortal world and the unseen, a crossing of veils that makes you an enigma to many. You are both a conduit and a caution of what happens when two worlds collide.
