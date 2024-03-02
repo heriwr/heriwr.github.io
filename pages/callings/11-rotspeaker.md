@@ -10,7 +10,7 @@ You may cast or perform any Spells or Rituals your rot knows as though it were a
 
 Whenever you fail a Life Save, compare the result with Rot Table.
 
-|2d6|Rot|
+|2d6|Rot Result|
 |-----|-----|
 |2| When under stress, your voice shifts and distorts, with the rot's whispers leaking through.|
 |3| Entities focused on decay and corruption (undead, malevolent nature spirits) become drawn to you, potentially leading to confrontations or unwanted pacts.|
