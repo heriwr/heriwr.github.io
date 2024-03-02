@@ -1,4 +1,4 @@
-# 22. Hexenbane
+# 22. Hexbane
 
 > You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken.
 
