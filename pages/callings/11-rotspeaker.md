@@ -36,12 +36,11 @@ Whenever you fail a Life Save, compare the result with Rot Table.
 
 |2d6|Rot Result|
 |-----|-----|
-|2| Your voice shifts and distorts, with the rot's whispers leaking through.|
-|3| Entities focused on decay and corruption (undead, malevolent nature spirits) become drawn to you.|
-|4| You become numb to the suffering of others.|
+|3| Your voice shifts and distorts, with the rot's whispers leaking through.|
+|4| Entities focused on decay and corruption (undead, malevolent nature spirits) become drawn to you.|
 |5| You're plagued by intrusive thoughts urging you towards acts of decay – destroying objects, harming small creatures, or spreading blight. Set your Guard to 0 until you act upon your urges.|
 |6| A weeping, necrotic wound appears somewhere on your body. It won't heal naturally and might even spread.|
-|7| Nearby plant life to withers, food spoils prematurely, and small animals become sickly. Reduce rations by 1.|
+|7| Nearby plant life withers, food spoils prematurely, and small animals become sickly. Reduce rations by 1.|
 |8| A part of your body becomes warped and grotesque – a gnarled hand, a rotting eye, etc.|
 |9| Fungal growths or mould colonies sprout from your skin.|
 |10| Others instinctively recoil from you, sensing the taint of decay within you. |
