@@ -24,11 +24,11 @@ You may cast or perform any Spells or Rituals your rot knows as though it were a
 
 Whenever you advance in Notoriety, choose one:
 
-**Rot Sense:** Pick taste, smell, or touch. You are unnaturally sensitive to the presence of decay.  This manifests in heightened perception of the chosen sense. You might experience putrid smells, acrid flavors, or the sensation of crawling rot,  intensifying as you near centers of corruption, blight, or even undead creatures.
+**Rot Sense:** Pick taste, smell, or touch. You are unnaturally sensitive to the presence of decay.  This manifests in heightened perception of the chosen sense. You might experience putrid smells, acrid flavors, or the sensation of crawling rot,  intensifying as you near centres of corruption, blight, or even undead creatures.
 
 **Embrace the Decay:**  When you are knocked unconscious or your mind is impaired, you can relinquish control to the rot within. Your body becomes a conduit for entropic forces, lashing out in unpredictable ways until the effect fades or you regain clarity.
 
-**Tap into the Blight:** Set your Grit to zero, or destroy a fragile, delicate, or complex object in your possession. In doing so, you channel a wave of rotting energy. This manifests as a d10 damage orb of decaying power, accelerating the decomposition of anything it touches.
+**Tap into the Blight:** Set your Guard to zero for ten minutes, or destroy a fragile, delicate, or complex object in your possession. In doing so, you channel a wave of rotting energy. This manifests as a 2d6 damage orb of decaying power, accelerating the decomposition of anything it touches.
 
 ## Rotting
 
