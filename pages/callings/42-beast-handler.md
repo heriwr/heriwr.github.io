@@ -1,4 +1,4 @@
-# Beast Handler
+# 42. Beast Handler
 
 > You alone can walk among the creatures of the wild, fearless and in control. You share a connection with animals that others can only dream of... so long as you don't become their snack.
 
