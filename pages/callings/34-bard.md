@@ -1,4 +1,4 @@
-# Bard
+# 34. Bard
 
 > What inspires the soul more than song, words, and spectacle? Why practice for years to master the arcane when you've already got real magic inside? 
 
