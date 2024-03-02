@@ -1,13 +1,4 @@
----
-title: Prowler
-layout: default
-nav_exclude: true
-search_exclude: true
-parent: Backgrounds
-grand_parent: WIP
----
-
-# Prowler
+# 63. Prowler
 
 > You are a specter in the night, a fleeting shadow that slips by its prey, unseen. Each kill a test of cunning and animal determination, a contest between life and death. You know that one day you will lose. You look forward to it. 
 
