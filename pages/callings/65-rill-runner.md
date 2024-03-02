@@ -1,13 +1,4 @@
----
-title: Rill Runner
-layout: default
-nav_exclude: true
-search_exclude: true
-parent: Backgrounds
-grand_parent: WIP
----
-
-# Rill Runner
+# 65. Rill Runner
 
 > You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.
 
