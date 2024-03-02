@@ -1,4 +1,4 @@
-# Druid
+# Greenwise
 
 > You delve deep into **The Woods**, prying its secrets from between rough boughs and whispering leaves. In this verdant kingdom, you are no mere scholar, but its confidant as well.
 
