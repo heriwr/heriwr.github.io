@@ -3,10 +3,10 @@
 You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop, the laws that govern this world are warped to suit your needs.
 
 Starting Gear
-• Lantern
-• Oil can (6 uses)
-• Needle-knife (d6)
-• Protective gloves (petty)
+* Lantern
+* Oil can (6 uses)
+* Needle-knife
+* Protective gloves (petty)
 
 |d6| What experiment went horribly wrong?|
 |----|----|
