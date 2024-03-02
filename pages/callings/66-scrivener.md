@@ -1,13 +1,4 @@
----
-title: Scrivener
-layout: default
-nav_exclude: true
-search_exclude: true
-parent: Backgrounds
-grand_parent: WIP
----
-
-# Scrivener
+# 66. Scrivener
 
 > You copy ancient texts and illuminate manuscripts, recording the voices of the clever, the great, and the powerful. You will prove that the pen truly is mightier than the sword.
 
