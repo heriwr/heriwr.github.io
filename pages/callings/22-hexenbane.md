@@ -1,13 +1,4 @@
----
-title: Hexenbane
-layout: default
-nav_exclude: true
-search_exclude: true
-parent: Backgrounds
-grand_parent: WIP
----
-
-# Hexenbane
+# 22. Hexenbane
 
 > You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken.
 
