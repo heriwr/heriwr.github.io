@@ -1,13 +1,4 @@
----
-title: Foundling
-layout: default
-nav_exclude: true
-search_exclude: true
-parent: Backgrounds
-grand_parent: WIP
----
-
-# Foundling
+# 53. Foundling
 
 > An odd birthmark, a strange smell: somehow, the touch of _elsewhere_ still lingers. You'll never fit in, at least not where you're at. Roll on the **Omens** table, but keep the results private for now.
  
