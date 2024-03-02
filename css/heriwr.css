@@ -2,9 +2,6 @@
   --bg-color: #ffffff; /* Light mode background color */
   --text-color: #201a19; /* Light mode text color */
   --accent-color: #b52619; /* Red color for links and borders */
-
-  --dark-bg-color: #201a19; /* Dark mode background color */
-  --dark-text-color: #ede0dd; /* Dark mode text color */
 }
 
 /* Base styles (apply to both modes) */
@@ -101,46 +98,4 @@ section.cover blockquote > p > a {
 
 section.cover .cover-main > p:last-child a {
   border-color: var(--accent-color);
-}
-
-/* Dark mode styles */
-body.dark-mode { 
-  --bg-color: var(--dark-bg-color);
-  --text-color: var(--dark-text-color);
-
-  /* Adjusted styles for dark mode */
-  .markdown-section blockquote {
-    border-left-color: #DDD; 
-  }
-
-  .progress,
-  .sidebar-toggle span,
-  section.cover .cover-main > p:last-child a:last-child {
-    background-color: #333; 
-  }
-
-  /* ... Add more dark mode styles as needed ... */
-}
-
-.dark-mode-switch {
-  position: fixed; 
-  right: 20px; 
-  top: 20px; 
-}
-
-/* Hide the default checkbox */
-.dark-mode-switch input[type="checkbox"] {
-  display: none;
-}
-
-/* Style the sun and moon icons */
-.dark-mode-switch label::before {
-  content: "\f185"; 
-  font-family: "Font Awesome 5 Free";
-  font-weight: 900; 
-  display: inline-block;
-}
-
-.dark-mode-switch input[type="checkbox"]:checked + label::before {
-  content: "\f186"; 
 }
