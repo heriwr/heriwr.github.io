@@ -1,4 +1,4 @@
-# Ladrata
+# 55. Cutpurse
 
 > You live in the grey space between those who have power and those who don’t. You find opportunity where others see only chaos. With nimble fingers, you unburden both the richest merchant and the lowliest guard. 
 
