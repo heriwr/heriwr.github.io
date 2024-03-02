@@ -1,13 +1,4 @@
----
-title: Fletchwind
-layout: default
-nav_exclude: true
-search_exclude: true
-parent: Backgrounds
-grand_parent: WIP
----
-
-# Fletchwind
+# 52. Fletchwind
 
 > You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring nought but a warning, singing the silent promise of a quick death. 
 
