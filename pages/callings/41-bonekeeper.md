@@ -1,13 +1,4 @@
----
-title: Bonekeeper
-layout: default
-nav_exclude: true
-search_exclude: true
-parent: Backgrounds
-grand_parent: WIP
----
-
-# Bonekeeper
+# 41. Bonekeeper
 
 > You are a shepherd to the departed. You listen to the final whispers of the dead as they descend into the cold, unyielding earth. You know that to fully celebrate the gift of life, we must honor its finale as well. 
 
