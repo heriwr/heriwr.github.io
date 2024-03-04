@@ -60,7 +60,9 @@
   - [Domains](/pages/procedures/domains.md)
   - [Downtime](/pages/procedures/downtime.md)   
 - Chapter V. Mynyddmor
-  - [Gorsedd](gorsedd.md)
+  - [Gorsedd](/pages/mynyddmor/gorsedd.md)
+  - [The Mountains](/pages/mynyddmor/mountains.md)
+  - [The Seas](/pages/mynyddmor/seas.md)
 - Chapter VII. Oracles
 
 - [Resources](resources.md)
