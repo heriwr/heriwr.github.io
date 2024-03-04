@@ -4,13 +4,13 @@
 - [Principles for Cyfarwydd](cyfarwydd-principles.md)
 - [Principles of the World](world-principles.md)
 - [Chapter I. First Steps](first-steps.md)
-- [Chapter II. Character](character.md)
+- Chapter II. Character
   - [Name](names.md)
   - [Callings](/pages/calling.md)
   - [Bonds](/bonds.md)
   - [Omens](omen.md)
   - [Marketplace](marketplace.md)
-- [Chapter III. Callings](callings.md)
+- Chapter III. Callings
   - [11. Rotspeaker](/pages/callings/11-rotspeaker.md)
   - [12. Druid](/pages/callings/12-druid.md)
   - [13. Runewright](/pages/callings/13-runewright.md)
@@ -47,21 +47,21 @@
   - [64. Rig](/pages/callings/64-rig.md)
   - [65. Rill Runner](/pages/callings/65-rill-runner.md)
   - [66. Scrivener](/pages/callings/66-scrivener.md)
-- [Chapter III. Core Rules](core-rules.md)
-  -  [Basic Rules](basic-rules.md)
-  -  [Combat](combat.md)
-  -  [Magic](magic.md)
-  -  [Crafting](crafting.md)
-- [Chapter IV. Procedures](procedures.md)
+- Chapter III. Core Rules
+  -  [Basic Rules](/pages/core-rules/basic-rules.md)
+  -  [Combat](/pages/core-rules/combat.md)
+  -  [Magic](/pages/core-rules/magic.md)
+  -  [Crafting](/pages/core-rules/crafting.md)
+- Chapter IV. Procedures
   - [Caverns](/pages/procedures/dungeons.md)
   - [Mountains](/pages/procedures/mountains.md)
   - [Cities](/pages/procedures/cities.md)
   - [Sailing](/pages/procedures/sailing.md)
   - [Domains](/pages/procedures/domains.md)
   - [Downtime](/pages/procedures/downtime.md)   
-- [Chapter V. Mynyddmor](mynyddmor.md)
+- Chapter V. Mynyddmor
   - [Gorsedd](gorsedd.md)
-- [Chapter VII. Oracles](oracles.md)
+- Chapter VII. Oracles
 
 - [Resources](resources.md)
 - [Acknowledgements](acknowledgements.md)
