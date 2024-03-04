@@ -1,0 +1,127 @@
+# Combat
+
+## Enemy Types
+
+|  Type   |Life|Guard|Morale|Armour|
+|  -----  |----|----|----|----|
+|Swarm    |3 |3 |3 |0|
+|Weak     |5 |5 |5 |0|
+|Standard |7 |7 |7 |1|
+|Advanced |9 |9 |9 |2|
+|Expert   |11|11|11|3|
+|Legendary|12|12|12|4|
+
+## Attacks
+
+The attacker rolls d6 and subtracts the target’s Armour, then deals the remaining total to their opponent’s GRD.
+
+Attacks in combat automatically hit.
+
+If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
+
+If attacking with two weapons at the same time, roll for both and keep the single highest result.
+
+## Enchantment
+
+PCs can apply Enchantments to their weapons and armour, either providing bonuses to attack, defence or special abilities (see Enchantment, page x.x). Using an Enchanted weapon causes 2d6 Damage and applies the relevant Condition. Enchantments are single-use and last until the PC rests.
+
+When striking with an enchanted weapon, a roll of 6.6 will instantly slay the opponent if possible.
+
+Items such as Torches, or flaming arrows act as Enchanted weapons but are expended upon use.
+
+## Oils
+
+Oils can be applied to weapons and will remain on the weapon for the duration of a single combat encounter.
+
+A monster part may be used to produce an oil specific to a type of monster. Attacks against a monster with an appropriately oiled weapon are 2d6.
+
+## Positioning
+
+Choose Theatre of the Mind for narrative combat or utilize a grid/zone system for tactical positioning.
+
+Each combat occurs on one or more battlefields defined by landmarks or objectives.
+
+Battlefields are divided into three ranks: **Melee**, **Reach**, and **Ranged**, corresponding to weapon ranges.
+
+## Movement
+
+Melee: Can only attack within their rank. Attacked units can counterattack (d3 damage) unless the attacker is next to an ally. Units can still act on their turn if not attacked yet.
+
+Reach: Can attack one rank away (Reach to Melee or Ranged to Reach). Any weapon may be thrown from Reach to cause d3 damage.
+
+Ranged: Can attack from two or more ranks, but risk hitting allies.
+
+Characters spend an Action move between adjacent ranks or from Ranged rank to another battlefield.
+
+Areas of Effect: Affect the entire battlefield.
+
+## Combat Initiation
+
+Every combat starts as a 3v3 regardless of location.
+
+Each round, the front line can shift 6 meters.
+
+Doorways allow only two attackers but permit three defenders.
+
+A round represents 10 seconds and consists of turns for both sides.
+
+PCs act first within each round.
+
+First round: PCs roll against their GRD to act. Failure means they do not act this turn.
+
+Subsequent rounds alternate between PCs and opponents until combat ends through defeat or escape.
+
+## Actions and Modifiers
+
+Characters can move (up to 3 squares) and take one action (attack, cast spell, etc.) per turn.
+
+Declare actions before rolling dice.
+
+The Bard calls for appropriate ability checks for risky actions.
+
+Impaired Attack: Fighting from a disadvantage (cover, low ground, etc.) requires rolling 2d6 and using the lower result.
+
+Enhanced Attack: Fighting from an advantage (high ground, daring maneuver, etc.) allows rolling 2d6 and using the higher result.
+
+Blast: Affects all targets within the designated area (roll separately for each). Examples include explosions, cleaving attacks, or a meteorite impact. Roll a d6 if unsure about the number of targets.
+
+Reach: Can only strike targets one rank away.
+
+Charge: Set weapons deal normal damage to a charging enemy. Setting occurs during the shooting phase.
+
+Reach Attacks (Optional): Allows attacking without engaging in direct combat (from the second rank) and grants a +2 bonus against flying opponents.
+
+Halfswording (Optional): Allows wielding a weapon in a shortened form (deals one dice size less damage) for use in tight spaces.
+
+Armour-Piercing: Designed against heavily armored foes. All armor Soaks at most two damage from these weapons.
+
+Thrust (Optional): Avoids the long weapon penalty in cramped conditions.
+
+## Scars
+
+If an attack takes a PC's Guard exactly to 0, they gain a Scar. Look up the result on the Scar Table based on how much Guard was lost in the attack. For example, if a PC went from 3 Guard to 0 Guard, they would look at entry #3 (Walloped).
+
+If the PC's Guard is three or less when they gain a scar, they may roll 1d6. If the result is higher than their current Guard, they may take the result as their new maximum Guard. If the PC's Guard is 4 or above, the PC must roll 2d6 and roll higher to increase their Guard.
+
+| sum | Scar |
+| ----- | ----- |
+| 1 GRD | Lasting Scar: Roll 1d6 | 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. |
+| 2 GRD | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max GRD, take the new result.|
+| 3 GRD | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours.|
+| 4 GRD | Broken Limb: Roll 1d6 | 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull.|
+| 5 GRD | Diseased: You’re afflicted with a gross, uncomfortable infection.|
+| 6 GRD | Reorienting Head Wound: Minus d6 maximum Life until you are treated.|
+| 7 GRD | Hamstrung: You can barely move until you get serious help and rest.|
+| 8 GRD | Deafened: You cannot hear anything until you find extraordinary aid.|
+| 9 GRD | Re-brained: Some hidden part of your psyche is knocked loose.|
+| 10 GRD | Sundered: An appendage is torn off, crippled or useless. The Bard will tell you which.|
+| 11 GRD | Mortal Wound: You are deprived and out of action. You die in one hour unless healed.|
+| 12 GRD | Doomed: Death seemed ever so close, but somehow you survived. If your next Life Save is a fail, you die horribly.|
+
+## Warbands
+
+Large groups of similar combatants fighting together are treated as a single Warband. When a warband takes Critical Damage, it is routed or significantly weakened. When it reaches 0 Life, it is destroyed. Attacks against warbands by individuals are Impaired (excluding Blast damage). Attacks against individuals by warbands are Enhanced and deal 2d6 damage.
+
+## Retreat
+
+Running away from a dire situation always requires a successful GRC test, as well as a safe destination to run to.
