@@ -4,14 +4,17 @@
   --accent-color: #800000; /* Red color for links and borders */
 }
 
-/* Base styles (apply to both modes) */
 body {
-  font-family: "Macondo", cursive;
-  font-style: normal;
-  font-variant: normal;
-  background-color: var(--bg-color);
-  color: var(--text-color);
-  transition: background-color 0.3s ease, color 0.3s ease; /* Add transition */
+    font-family: 'DM Sans', sans-serif; /* DM Sans as primary body font */
+    font-style: normal;
+    font-variant: normal;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.3s ease, color 0.3s ease; /* Add transition */
+}
+
+h1, h2, h3, h4, h5, h6 { /* Assuming your headers use these tags */
+    font-family: "Macondo", cursive; /* Keep Macondo for headers */
 }
 
 /* List items */
