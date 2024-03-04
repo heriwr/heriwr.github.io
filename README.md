@@ -1,6 +1,6 @@
 # Heriwr
 
-The wind whips crimson blades of grass, howling its mournful song. A bruised sky bleeds over the mountains, transforming emerald giants into obsidian sentinels against a tempestuous sea. The ocean churns, not with familiar blue, but a deep, angry red, as if the storm itself stains the water. The air crackles, a strange energy both terrifying and exhilarating. A salty gale whispers of challenge. This is a world of fury, a landscape where danger and adventure wage a ceaseless battle.
+_The wind whips crimson blades of grass, howling its mournful song. A bruised sky bleeds over the mountains, transforming emerald giants into obsidian sentinels against a tempestuous sea. The ocean churns, not with familiar blue, but a deep, angry red, as if the storm itself stains the water. The air crackles, a strange energy both terrifying and exhilarating. A salty gale whispers of challenge. This is a world of fury, a landscape where danger and adventure wage a ceaseless battle._
 
 <i>Heriwr</i> is table-top roleplaying game based on the LIFEGUARD system, which is itself derived from MARK OF THE ODD games, including CAIRN, MYTHIC BASTIONLAND, RUNECAIRN, MAUSRITTER and more.
 
