@@ -118,6 +118,23 @@ Most items take up one slot, unless otherwise indicated. Petty items do not take
 |Stunned| |
 |Unconscious| |
 
+### Panic
+
+#### Trigger
+
+A character surrounded by enemies, engulfed in darkness, or confronting their greatest fears may experience panic. A CLA saving throw is typically required to avoid losing control and becoming panicked.
+
+#### Overcoming Panic
+
+As an action on their turn, a panicked character must make a Life saving throw to overcome the condition.
+Effects
+
+#### A panicked character suffers the following effects until their condition ends:
+
+Reduced Health: Their GRD is considered 0 for all purposes.
+Delayed Action: They do not act in the first round of combat.
+Impaired Attacks: All their attacks are impaired.
+
 ## Deprivation
 
 A PC that lacks a crucial need (such as food or rest) is considered Deprived. A Deprived PC cannot recover Life or Guard, cannot cast spells and all Saves rolled are at Disadvantage.
