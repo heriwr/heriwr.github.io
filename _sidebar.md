@@ -1,9 +1,10 @@
 - [Home](/)
 - [Geirfa](/pages/geirfa.md)
+- Chapter I: Introduction
 - [Principles for Players](player-principles.md)
 - [Principles for Cyfarwydd](cyfarwydd-principles.md)
 - [Principles of the World](world-principles.md)
-- [Chapter I. First Steps](first-steps.md)
+- [First Steps](first-steps.md)
 - Chapter II. Character
   - [Name](names.md)
   - [Callings](/pages/calling.md)
