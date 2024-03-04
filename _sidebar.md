@@ -1,6 +1,7 @@
 - [Home](/)
 - [Geirfa](/pages/geirfa.md)
 - [Pronunciation Guide](/pages/pronunciation-guide.md)
+----
 - Chapter I: Introduction
 - [Principles](principles.md)
 - [First Steps](first-steps.md)
@@ -63,7 +64,10 @@
   - [Gorsedd](/pages/mynyddmor/gorsedd.md)
   - [The Mountains](/pages/mynyddmor/mountains.md)
   - [The Seas](/pages/mynyddmor/seas.md)
-- Chapter VII. Oracles
+- Chapter VII. Tables
+  - [Oracle]
+  - [Ask the Stars]
+----
 
 - [Resources](resources.md)
 - [Acknowledgements](acknowledgements.md)
