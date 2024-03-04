@@ -232,6 +232,8 @@ A sack of coins (◍s) takes 2 slots.
 
 A chest of coins (◍c) takes 6 slots.
 
+A chest of Bronze Modwry is equal to a handful of silver Modwry, and a chest of silver Modwry is equal to a handful of gold Modwry.
+
 ### Purchasing Items
 
 Whenever you purchase an item, roll d6. On a roll of 1, your currency is downgraded. A Chest becomes a Sack, a Sack becomes a Pouch, and a Pouch becomes a Handful, until you have none left.
