@@ -1,7 +1,7 @@
 :root {
   --bg-color: #FFFFFF; /* Light mode background color */
   --text-color: #000000; /* Light mode text color */
-  --accent-color: #b52619; /* Red color for links and borders */
+  --accent-color: #800000; /* Red color for links and borders */
 }
 
 /* Base styles (apply to both modes) */
