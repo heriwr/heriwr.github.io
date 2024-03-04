@@ -1,6 +1,6 @@
 :root {
-  --bg-color: #ffffff; /* Light mode background color */
-  --text-color: #201a19; /* Light mode text color */
+  --bg-color: #DFDCD3; /* Light mode background color */
+  --text-color: #333333; /* Light mode text color */
   --accent-color: #b52619; /* Red color for links and borders */
 }
 
