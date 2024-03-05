@@ -63,8 +63,9 @@
   - [Gorsedd](/pages/mynyddmor/gorsedd.md)
   - [The Mountains](/pages/mynyddmor/mountains.md)
   - [The Seas](/pages/mynyddmor/seas.md)
-- Chapter VIII. Misc. Tables
+- Chapter VIII. Tables
   - [Oracles](/pages/tables/oracle.md)
+  - [Spells](/pages/tables/spells.md)
 
 - [Resources](resources.md)
 - [Acknowledgements](acknowledgements.md)
