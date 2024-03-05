@@ -4,7 +4,6 @@
 
 Chapter I: Introduction
 
-
 - [Principles](principles.md)
 - [First Steps](first-steps.md)
 - Chapter II. Character
@@ -13,7 +12,9 @@ Chapter I: Introduction
   - [Bonds](/bonds.md)
   - [Omens](omen.md)
   - [Marketplace](marketplace.md)
+    
 Chapter III. Callings
+
   - [11. Rotspeaker](/pages/callings/11-rotspeaker.md)
   - [12. Druid](/pages/callings/12-druid.md)
   - [13. Runewright](/pages/callings/13-runewright.md)
@@ -50,23 +51,31 @@ Chapter III. Callings
   - [64. Rig](/pages/callings/64-rig.md)
   - [65. Rill Runner](/pages/callings/65-rill-runner.md)
   - [66. Scrivener](/pages/callings/66-scrivener.md)
+    
 Chapter IV. Core Rules
+
   -  [Basic Rules](/pages/core-rules/basic-rules.md)
   -  [Combat](/pages/core-rules/combat.md)
   -  [Magic](/pages/core-rules/magic.md)
   -  [Crafting](/pages/core-rules/crafting.md)
+    
 Chapter V. Procedures
+
   - [Caverns](/pages/procedures/dungeons.md)
   - [Mountains](/pages/procedures/mountains.md)
   - [Cities](/pages/procedures/cities.md)
   - [Sailing](/pages/procedures/sailing.md)
   - [Domains](/pages/procedures/domains.md)
-  - [Downtime](/pages/procedures/downtime.md)   
+  - [Downtime](/pages/procedures/downtime.md)
+
 Chapter VI. Mynyddmor
+
   - [Gorsedd](/pages/mynyddmor/gorsedd.md)
   - [The Mountains](/pages/mynyddmor/mountains.md)
   - [The Seas](/pages/mynyddmor/seas.md)
+
 Chapter VIII. Tables
+
   - [Oracles](/pages/tables/oracle.md)
   - [Spells](/pages/tables/spells.md)
 
