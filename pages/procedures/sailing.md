@@ -2,7 +2,7 @@
 
 ## Battle
 
-Each ship needs a token with a front and back. If two or more ships battle, place a six-sided die between them on the table to represent their distance.** This distance is relative to all ships, meaning your movement affects everyone in the battle. Remember, ship movement is an abstraction.
+Each ship needs a token with a front and back. If two or more ships battle, place a six-sided die between them on the table to represent their distance. This distance is relative to all ships, meaning your movement affects everyone in the battle. Remember, ship movement is an abstraction.
 
 Each turn, all ships roll their speed die (slow: d6-, average: d6, fast: d6+). The highest roll moves up to the difference between their die and the second highest; the second highest moves up to the difference between theirs and the third highest, and so on. For each move, you can close the distance, increase the distance, or tack 90 degrees to aim your cannons.
 
