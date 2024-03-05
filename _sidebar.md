@@ -1,7 +1,10 @@
 - [Home](/)
 - [Geirfa](/pages/geirfa.md)
 - [Pronunciation Guide](/pages/pronunciation-guide.md)
+
 Chapter I: Introduction
+
+
 - [Principles](principles.md)
 - [First Steps](first-steps.md)
 - Chapter II. Character
