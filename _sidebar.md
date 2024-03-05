@@ -6,7 +6,9 @@ Chapter I: Introduction
 
 - [Principles](principles.md)
 - [First Steps](first-steps.md)
-- Chapter II. Character
+
+Chapter II. Character
+
   - [Name](names.md)
   - [Callings](/pages/calling.md)
   - [Bonds](/bonds.md)
