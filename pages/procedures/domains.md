@@ -1,7 +1,5 @@
 # Domains
 
-# Domains
-
 ## Strongholds
 
 ### Land Acquisition
