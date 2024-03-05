@@ -64,6 +64,18 @@
   - [Gorsedd](/pages/mynyddmor/gorsedd.md)
   - [The Mountains](/pages/mynyddmor/mountains.md)
   - [The Seas](/pages/mynyddmor/seas.md)
+- Chapter VII. Bestiary
+  - [Boddiwr](/pages/bestiary/boddiwr.md)
+  - [Broch](/pages/bestiary/broch.md)
+  - [Cerrig Byw](/pages/bestiary/cerrig-byw.md)
+  - [Cwynog](/pages/bestiary/cwnog.md)
+  - [Dialwyr](/pages/bestiary/dialwyr.md)
+  - [Draig](/pages/bestiary/draig.md)
+  - [Grond](/pages/bestiary/grond.md)
+  - [Gwyliwr](/pages/bestiary/gwyliwr.md)
+  - [Hwch](/pages/bestiary/hwch.md)
+  - [Kiffyn](/pages/bestiary/kiffy.md)
+  - [Llusg](/pages/bestiary/llusg.md)
 - Chapter VIII. Tables
   - [Oracles](/pages/tables/oracle.md)
   - [Spells](/pages/tables/spells.md)
