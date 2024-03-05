@@ -1,5 +1,5 @@
   - [Home](/)
-  - [Geirfa](/pages/geirfa.md)
+  - [Glossary](/pages/glossary.md)
   - [Pronunciation Guide](/pages/pronunciation-guide.md)
 - Chapter I: Introduction
   - [Principles](principles.md)
