@@ -47,12 +47,12 @@
   - [64. Rig](/pages/callings/64-rig.md)
   - [65. Rill Runner](/pages/callings/65-rill-runner.md)
   - [66. Scrivener](/pages/callings/66-scrivener.md)
-- Chapter IV. Core Rules
-  -  [Basic Rules](/pages/core-rules/basic-rules.md)
-  -  [Combat](/pages/core-rules/combat.md)
-  -  [Magic](/pages/core-rules/magic.md)
-  -  [Crafting](/pages/core-rules/crafting.md)
--  Chapter V. Procedures
+  - Chapter IV. Core Rules
+  - [Basic Rules](/pages/core-rules/basic-rules.md)
+  - [Combat](/pages/core-rules/combat.md)
+  - [Magic](/pages/core-rules/magic.md)
+  - [Crafting](/pages/core-rules/crafting.md)
+  - Chapter V. Procedures
   - [Caverns](/pages/procedures/dungeons.md)
   - [Mountains](/pages/procedures/mountains.md)
   - [Cities](/pages/procedures/cities.md)
