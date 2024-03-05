@@ -58,6 +58,7 @@
   - [Cities](/pages/procedures/cities.md)
   - [Sailing](/pages/procedures/sailing.md)
   - [Domains](/pages/procedures/domains.md)
+  - [Factions](/pages/procedures/factions.md)
   - [Downtime](/pages/procedures/downtime.md)
 - Chapter VI. Mynyddmor
   - [Gorsedd](/pages/mynyddmor/gorsedd.md)
