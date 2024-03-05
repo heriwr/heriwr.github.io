@@ -1,4 +1,4 @@
-# 34. Bard
+# 34. Awenydd
 
 > What inspires the soul more than song, words, and spectacle? Why practice for years to master the arcane when you've already got real magic inside? 
 
