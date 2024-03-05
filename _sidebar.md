@@ -1,7 +1,6 @@
 - [Home](/)
 - [Geirfa](/pages/geirfa.md)
 - [Pronunciation Guide](/pages/pronunciation-guide.md)
-
 - Chapter I: Introduction
 - [Principles](principles.md)
 - [First Steps](first-steps.md)
@@ -48,23 +47,23 @@
   - [64. Rig](/pages/callings/64-rig.md)
   - [65. Rill Runner](/pages/callings/65-rill-runner.md)
   - [66. Scrivener](/pages/callings/66-scrivener.md)
-- Chapter III. Core Rules
+- Chapter IV. Core Rules
   -  [Basic Rules](/pages/core-rules/basic-rules.md)
   -  [Combat](/pages/core-rules/combat.md)
   -  [Magic](/pages/core-rules/magic.md)
   -  [Crafting](/pages/core-rules/crafting.md)
-- Chapter IV. Procedures
+- Chapter V. Procedures
   - [Caverns](/pages/procedures/dungeons.md)
   - [Mountains](/pages/procedures/mountains.md)
   - [Cities](/pages/procedures/cities.md)
   - [Sailing](/pages/procedures/sailing.md)
   - [Domains](/pages/procedures/domains.md)
   - [Downtime](/pages/procedures/downtime.md)   
-- Chapter V. Mynyddmor
+- Chapter VI. Mynyddmor
   - [Gorsedd](/pages/mynyddmor/gorsedd.md)
   - [The Mountains](/pages/mynyddmor/mountains.md)
   - [The Seas](/pages/mynyddmor/seas.md)
-- Chapter VII. Misc. Tables
+- Chapter VIII. Misc. Tables
   - [Oracles](/pages/tables/oracle.md)
 
 - [Resources](resources.md)
