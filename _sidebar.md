@@ -59,11 +59,11 @@
   - [Sailing](/pages/procedures/sailing.md)
   - [Domains](/pages/procedures/domains.md)
   - [Downtime](/pages/procedures/downtime.md)
--  Chapter VI. Mynyddmor
+- Chapter VI. Mynyddmor
   - [Gorsedd](/pages/mynyddmor/gorsedd.md)
   - [The Mountains](/pages/mynyddmor/mountains.md)
   - [The Seas](/pages/mynyddmor/seas.md)
--  Chapter VIII. Tables
+- Chapter VIII. Tables
   - [Oracles](/pages/tables/oracle.md)
   - [Spells](/pages/tables/spells.md)
 
