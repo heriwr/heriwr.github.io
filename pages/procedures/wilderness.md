@@ -1,10 +1,10 @@
-# Mountain Exploration
+# Wilderness
 
 ## Watches
 
 A watch is eight hours. A day is divided into three Watches: morning, afternoon, and night. A halfwatch is four hours, and so on.
 
-Each character can choose one Mountain Action (page x.x) per watch.
+Each character can choose one Wilderness Action (page x.x) per watch.
 
 If the characters split up, each group is treated as an independent entity.
 
@@ -45,9 +45,9 @@ The weather, terrain, darkness, injured party members, and other obstacles can i
 
 |Difficulty| Terrain| Penalty| Factors|
 |-----|-----|-----|-----|
-|Easy| Valleys| None| Safe areas for rest, fellow travelers, good visibility.|
-|Tough| Forests, hills| +1 Watch| Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter’s traps|
-|Perilous| Steep climbs, high altitude, narrow path, cliffside | +2 Watches| Unclean water, poisonous plants and animals, poor navigation|
+|Easy| Plains, plateaus, valleys| None| Safe areas for rest, fellow travelers, good visibility.|
+|Tough| Forests, deserts, hills| +1 Watch| Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter’s traps|
+|Perilous| Mountains, jungles, swamps| +2 Watches| Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation|
 
 ## Weather
 
@@ -75,12 +75,12 @@ Each day, the Bard should roll on the weather table for the appropriate season. 
 |Extreme| Deprived after travel. Add +1 watch and lose 1 Life. Increase terrain difficulty by a step.| Blizzards, freezing winds, flooding, mud slides|
 |Catastrophic| Most parties cannot travel under these conditions.|Tornados, tidal waves, hurricane, volcanic eruption|
 
-## Mountain Elements
+## Wilderness Elements
 
 ### Night
 
 The party can choose to travel at night and rest during the day, but be warned: night travel is significantly slower and more dangerous!
-Due to increased hazards, the Bard should roll twice on the Mountain Events table when traveling at night.
+Due to increased hazards, the Bard should roll twice on the Wilderness Events table when traveling at night.
 Consider that some terrain and weather, like deserts, might be easier to navigate at night. The Bard should weigh these advantages against any additional challenges.
 
 ### Sleep
@@ -99,29 +99,16 @@ Light Sources:
 A torch can be lit three times before degrading.
 A lantern can be relit indefinitely but requires a separate oil can (providing six uses).
 
-### Mountain Exploration Cycle
+### Wilderness Exploration Cycle
 
-1. The Bard describes the current point or region on the map and how the path, weather, terrain, or party status might affect travel speed. The party plots or adjusts a given course towards their destination.
-2. Each character chooses a single Mountain Action (pg. 80). The Bard narrates the results, and then rolls on the Mountain Events table. The party responds to the results.
+1. The Bard describes the current point or region on the map and how the
+path, weather, terrain, or party status might affect travel speed. The party
+plots or adjusts a given course towards their destination.
+2. Each character chooses a single Wilderness Action (pg. 80). The Bard narrates the results, and then rolls on the Wilderness Events table. The party
+responds to the results.
 3. The players and the Bard record any loss of resources and new conditions (i.e. torch use, deprivation, etc), and the cycle repeats.
 
-### Places In The Mountains
-
-| 2d6 | Result |
-| ----- | ----- |
-| 2 | Mountain Peak |
-| 3 | Structure |
-| 4 | Cliff |
-| 5 | Stream |
-| 6 | Burrow |
-| 7 | Clearing |
-| 8 | Grove|
-| 9 | Forest |
-| 10 | Pass |
-| 11 | Outside Beasts |
-| 12 | Outside Beasts |
-
-### Mountain Events Table
+### Wilderness Events Table
 
 |d6| | |
 |-----|-----|-----|
@@ -132,9 +119,9 @@ A lantern can be relit indefinitely but requires a separate oil can (providing s
 |5| Exhaustion| The party encounters a barrier, forcing effort, care or delays. This might mean spending +1 Watch travelling or becoming Deprived.|
 |6| Discovery| The party finds food, treasure, or other useful resources. The Bard can instead choose to reveal the primary feature of the area.|
 
-## Mountain Encounter Table
+## Wilderness Encounter Table
 
-| 2d6 | Result |
+| sum | Result |
 | ----- | ----- |
 | 2 | Local Faction Leader |
 | 3 | Travelling NPC |
@@ -150,7 +137,7 @@ A lantern can be relit indefinitely but requires a separate oil can (providing s
 
 ### Activity & Alertness
 
-Split the dice from the Mountain Encounter roll. The first die determines the encounter's Alertness and the second die determins the encounter's Distance.
+Split the dice from the Wilderness Encounter roll. The first die determines the encounter's Alertness and the second die determins the encounter's Distance.
 
 | D6 | Activity | Alertness |
 | ----- | ----- | ----- |
@@ -170,13 +157,13 @@ Split the dice from the Mountain Encounter roll. The first die determines the en
 | 5 | Signs and Traces | Signs and Traces |
 | 6 | Retreating | Injured / Slain |
 
-## Mountain Actions
+## Wilderness Actions
 
 ### Travel
 
 Traveling reveals nearby areas gradually, with obvious features and terrain becoming visible based on distance. This action typically involves the entire party moving together.
 A d6 roll determines if the party gets lost. The risk depends on Path Difficulty (pg. 76), maps, party skills, and guides.
-If lost, the party might need to spend a Mountain Action to find their way again. Otherwise, they reach the intended destination. Remember to compare getting lost results to the corresponding Path Difficulty.
+If lost, the party might need to spend a Wilderness Action to find their way again. Otherwise, they reach the intended destination. Remember to compare getting lost results to the corresponding Path Difficulty.
 
 ### Explore
 
@@ -191,8 +178,6 @@ The party might encounter homes or small villages where they can spend gold and 
 
 ### Make Camp
 
-Setting up camp involves stopping in the Mountain and consuming a Ration per party member (including mounts).
+Setting up camp involves stopping in the wilderness and consuming a Ration per party member (including mounts).
 To ensure everyone can sleep safely, a lookout rotation is established. Ideally, three rotations are needed. Smaller parties might have to sleep unguarded or take turns sleeping over multiple days.
 Party members who get a proper rest remove all Fatigue from their inventory.
-
-
