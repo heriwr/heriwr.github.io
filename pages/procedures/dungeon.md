@@ -1,16 +1,16 @@
-# Caverns
+# Dungeons
 
 ## The Basics
 
-The cavern exploration cycle (see below) is divided into a series of Turns, Actions, and their consequences.
+The Dungeon exploration cycle (see below) is divided into a series of Turns, Actions, and their consequences.
 
-On each Turn, a character can move a distance equal to their torchlight's perimeter (about four squares) and perform one Action. Players can use their Action to move up to three times that distance, but doing so increases the chance of encountering a danger (wandering monster, sprung trap, etc.) which may also trigger a roll on the cavern Events table.
+On each Turn, a character can move a distance equal to their torchlight's perimeter (about four squares) and perform one Action. Players can use their Action to move up to three times that distance, but doing so increases the chance of encountering a danger (wandering monster, sprung trap, etc.) which may also trigger a roll on the Dungeon Events table.
 
-The Bard should freely present obvious information about an area and its dangers. Moving quickly or without caution may increase the chance of encountering a danger or triggering a roll on the cavern Events table.
+The Bard should freely present obvious information about an area and its dangers. Moving quickly or without caution may increase the chance of encountering a danger or triggering a roll on the Dungeon Events table.
 
-While "cavern" is used here as an example, this structure can be adapted to any dangerous location, such as a mansion, farmhouse, or any other adventure site.
+While "Dungeon" is used here as an example, this structure can be adapted to any dangerous location, such as a mansion, farmhouse, or any other adventure site.
 
-## Cavern Exploration Cycle
+## Dungeon Exploration Cycle
 
 1. Set the Scene:
 
@@ -25,22 +25,22 @@ The Bard simultaneously resolves the actions of each character, including any on
 3. Consequences:
 
 - Players diligently record any resource losses or acquired conditions arising from their actions (e.g., item usage, fatigue, etc.).
-*The cycle then loops back to step 1. Additionally, the Bard may choose to roll on the cavern Events table for further narrative twists, always interpreting the results with common sense and a focus on enhancing the story.
+*The cycle then loops back to step 1. Additionally, the Bard may choose to roll on the Dungeon Events table for further narrative twists, always interpreting the results with common sense and a focus on enhancing the story.
 
-## Cavern Events
+## Dungeon Events
 
-Exploring a cavern is always dangerous, and time must always be weighed against the risk of awakening the location’s denizens, natural hazards, and worse.
+Exploring a Dungeon is always dangerous, and time must always be weighed against the risk of awakening the location’s denizens, natural hazards, and worse.
 
 **Whenever the party...**
 
-Spends more than one cavern cycle in a single room or location.
+Spends more than one Dungeon cycle in a single room or location.
 Moves quickly or haphazardly through a room.
 Moves into a new area, level, or zone.
 Creates a loud disturbance.
 
-**... roll on the cavern Events table.**
+**... roll on the Dungeon Events table.**
 
-### Cavern Events Table
+### Dungeon Events Table
 
 1. Encounter: Roll on an encounter table. (Possibly hostile.)
 2. Environment: Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.
@@ -55,7 +55,7 @@ These are any non-passive activities, such as searching for traps, forcing open 
 
 Special Rules and Duration: Some actions have special rules (see below), while others may take multiple turns to complete.
 
-Encountering Denizens: Loud or noticeable actions may also trigger an encounter with the cavern's inhabitants.
+Encountering Denizens: Loud or noticeable actions may also trigger an encounter with the Dungeon's inhabitants.
 
 ### Searching
 
@@ -64,13 +64,13 @@ Encountering Denizens: Loud or noticeable actions may also trigger an encounter 
 A character can spend a turn performing an exhaustive search of one object or location in an area, revealing any relevant hidden treasure, traps, secret doors, etc.
 Thoroughness and Time
 
-Larger rooms and difficult or complex cavern terrain may take a few turns to properly search.
+Larger rooms and difficult or complex Dungeon terrain may take a few turns to properly search.
 Safety vs. Time
 
-Searching a room first is a safer way to explore the cavern, but it takes time.
+Searching a room first is a safer way to explore the Dungeon, but it takes time.
 Resting
 
-## Cavern Elements
+## Dungeon Elements
 
 ### Light
 
