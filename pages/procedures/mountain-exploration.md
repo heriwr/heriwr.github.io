@@ -47,7 +47,7 @@ The weather, terrain, darkness, injured party members, and other obstacles can i
 |-----|-----|-----|-----|
 |Easy| Valleys| None| Safe areas for rest, fellow travelers, good visibility.|
 |Tough| Forests, hills| +1 Watch| Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter’s traps|
-|Perilous| Swamps, untread trails| +2 Watches| Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation|
+|Perilous| Steep climbs, high altitude, narrow path, cliffside | +2 Watches| Unclean water, poisonous plants and animals, poor navigation|
 
 ## Weather
 
@@ -104,6 +104,22 @@ A lantern can be relit indefinitely but requires a separate oil can (providing s
 1. The Bard describes the current point or region on the map and how the path, weather, terrain, or party status might affect travel speed. The party plots or adjusts a given course towards their destination.
 2. Each character chooses a single Mountain Action (pg. 80). The Bard narrates the results, and then rolls on the Mountain Events table. The party responds to the results.
 3. The players and the Bard record any loss of resources and new conditions (i.e. torch use, deprivation, etc), and the cycle repeats.
+
+### Places In The Mountains
+
+| 2d6 | Result |
+| ----- | ----- |
+| 2 | Mountain Peak |
+| 3 | Structure |
+| 4 | Cliff |
+| 5 | Stream |
+| 6 | Burrow |
+| 7 | Clearing |
+| 8 | Grove|
+| 9 | Forest |
+| 10 | Pass |
+| 11 | Outside Beasts |
+| 12 | Outside Beasts |
 
 ### Mountain Events Table
 
