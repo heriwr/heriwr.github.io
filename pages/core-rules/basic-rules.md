@@ -149,6 +149,10 @@ A PC that lacks a crucial need (such as food or rest) is considered Deprived. A 
 | 9 - 11 | More friendly and benign than you'd expect them to be, given the circumstances|
 | 12     | As friendly and helpful as their nature and the situation permits them to be |
 
+## Reputation
+
+Reputation is awarded (+1) for a significant contribution to a location, profession or faction, or for being of the same station, and is effective only in that context.
+
 ## Morale
 
 Enemies have a Morale Value and some have a Flee Condition. To test Morale, roll 2d6 - if the value is lower than or equal to the Morale Value, the enemy does not flee.
