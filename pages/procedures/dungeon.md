@@ -1,4 +1,4 @@
-# Dungeons
+# Dungeon Exploration
 
 ## The Basics
 
