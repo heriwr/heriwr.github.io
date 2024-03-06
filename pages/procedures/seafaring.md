@@ -1,4 +1,4 @@
-# Sailing
+# Searfaring
 
 ## Battle
 
