@@ -86,7 +86,19 @@ Armour provides a bonus to defence (e.g. +1 Armor), but only while the item is h
 
 A PC, NPC, or monster cannot have more than 3 Armor. PCs with an equipped shield may choose to Sunder their shield in place of taking damage, while wearing a helmet prevents the PC becoming Dazed.
 
-Additionally, armour protects the wearer from the effects of the Dismemberment table the first three times. On the third strike, the armour is lost and the wearer is susceptible.
+Additionally, armour protects the wearer from the effects of the Dismemberment table the first three times. On the third strike, the armour is lost and the wearer is susceptible. 
+
+To wear armor in town means you intend to have a deadly fight, i.e. intend to commit murder. There should be consequences. Town guards are unarmoured unless actively under siege.
+
+Armour is worn when...
+
+Warriors/soldiers know that combat is likely and imminent. This may or may not include formal duels, depending on time and place.
+
+They are mustered as a formal military formation.
+Combat tournaments using weapons.
+
+Dedicated training periods in dedicated locations.
+
 
 ## Vision
 
