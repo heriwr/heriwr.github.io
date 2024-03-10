@@ -65,9 +65,9 @@ Skills are grouped into three Approaches: **Direct**, **Discrete** and **Resourc
 
 Skills start at 1 (Novice) and can be increased to 5 (Expert). A skill roll is a d6, aiming for equal or under the skill level.
 
-Direct: Intimidation, bending things, smashing doors down, scaling walls.
-Discrete: Forgery, disguise, seduction, pickpocketing, lockpicking.
-Resourceful:  Historical knowledge, appraisal of goods, using equipment, currency or contacts, recalling lore, first aid.
+* Direct: Intimidation, bending things, smashing doors down, scaling walls.
+* Discrete: Forgery, disguise, seduction, pickpocketing, lockpicking.
+* Resourceful:  Historical knowledge, appraisal of goods, using equipment, currency or contacts, recalling lore, first aid.
 
 ## Armour
 
