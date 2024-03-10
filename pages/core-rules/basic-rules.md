@@ -61,11 +61,9 @@ Training a skill takes time, costs Modwry and requires an expert (see Training, 
 
 ## Skill
 
-Skills are grouped into three Approaches: Direct, Discrete and Resourceful.
+Skills are grouped into three Approaches: **Direct**, **Discrete** and **Resourceful**.
 
-In addition to rolling Life and Guard saves, PCs may increase their skill in Direct, Discrete and Resourceful skills. Skills start at 1 (Novice) and can be increased to 5 (Expert). A skill roll is a d6, aiming for equal or under the skill level.
-
-Picking a lock is Discrete skill, while bashing the lock is Direct. PCs can be Resourceful, using persuasion to unlock the gate.
+Skills start at 1 (Novice) and can be increased to 5 (Expert). A skill roll is a d6, aiming for equal or under the skill level.
 
 Direct: Intimidation, bending things, smashing doors down, scaling walls.
 Discrete: Forgery, disguise, seduction, pickpocketing, lockpicking.
