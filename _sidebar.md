@@ -2,25 +2,27 @@
   - [Glossary](/docs/glossary.mdx)
   - [Pronunciation Guide](/docs/pronunciation-guide.mdx)
 - Chapter I: Introduction
-  - [Principles](/docs/introduction/principles.mdxx)
-  - [First Steps](/docs/introduction/first-steps.mdxx)
+  - [Principles](/docs/introduction/principles.mdx)
+  - [First Steps](/docs/introduction/first-steps.mdx)
 - Chapter II. Character
-  - [Names](/docs/character/names.mdxx)
-  - [Callings](/docs/character/calling-table.mdxx)
-  - [Bonds](/docs/character/bonds.mdxx)
+  - [Names](/docs/character/names.mdx)
+  - [Callings](/docs/character/calling-table.mdx)
+  - [Bonds](/docs/character/bonds.mdx)
   - [Omens](/docs/character/omen.mdxx)
-  - [Marketplace](/docs/character/marketplace.mdxx)
+  - [Marketplace](/docs/character/marketplace.mdx)
 - Chapter III. Callings
-  - [to do](/docs/to-do.mdxx)
+  - [Rhaglaw](/docs/callings/rhaglaw.mdx)
+  - [Lleidr]
+  - Ysgrifenydd
 - Chapter IV. Core Rules
-  - [Basic Rules](/docs/core-rules/basic-rules.mdxx)
-  - [Combat](/docs/core-rules/combat.mdxx)
-  - [Magic](/docs/core-rules/magic.mdxx)
-  - [Crafting](/docs/core-rules/crafting.mdxx)
+  - [Basic Rules](/docs/core-rules/basic-rules.mdx)
+  - [Combat](/docs/core-rules/combat.mdx)
+  - [Magic](/docs/core-rules/magic.mdx)
+  - [Crafting](/docs/core-rules/crafting.mdx)
 - Chapter V. Procedures
-  - [Dungeon Exploration](/docs/procedures/dungeon-exploration.mdxx)
-  - [Wilderness Exploration](/docs/procedures/wilderness-exploration.mdxx)
-  - [Urban Exploration](/docs/procedures/urban-exploration.mdxx)
+  - [Dungeon Exploration](/docs/procedures/dungeon-exploration.mdx)
+  - [Wilderness Exploration](/docs/procedures/wilderness-exploration.mdx)
+  - [Urban Exploration](/docs/procedures/urban-exploration.mdx)
   - [Seafaring](/docs/procedures/seafaring.mdx)
   - [Domains](/docs/procedures/domains.mdx)
   - [Factions](/docs/procedures/factions.mdx)
