@@ -61,24 +61,15 @@ Training a skill takes time, costs Modwry and requires an expert (see Training, 
 
 ## Skill
 
-A PC may train in up to three skills. Skills are keywords that are useful for Saves (see Training page x.x). A skill may be anything the PC wishes to learn and can be taught.
+Skills are grouped into three Approaches: Direct, Discrete and Resourceful.
 
-Example skills:
+In addition to rolling Life and Guard saves, PCs may increase their skill in Direct, Discrete and Resourceful skills. Skills start at 1 (Novice) and can be increased to 5 (Expert). A skill roll is a d6, aiming for equal or under the skill level.
 
-* Lockpicking
-* Acrobatics
-* Pick-pocketing
-* Scaling Walls
-* Bending Things
-* Smashing Doors Down
-* Drinking Contest
-* Diguise
-* First Aid
-* Appraisal of goods
-* Historical Knowledge
-* Forgery
-* Intimidation
-* Persuasion
+Picking a lock is Discrete skill, while bashing the lock is Direct. PCs can be Resourceful, using persuasion to unlock the gate.
+
+Direct: Intimidation, bending things, smashing doors down, scaling walls.
+Discrete: Forgery, disguise, seduction, pickpocketing, lockpicking.
+Resourceful:  Historical knowledge, appraisal of goods, using equipment, currency or contacts, recalling lore, first aid.
 
 ## Armour
 
