@@ -11,9 +11,12 @@
   - [Omens](/docs/character/omen.mdxx)
   - [Marketplace](/docs/character/marketplace.mdx)
 - Chapter III. Callings
+  - [Ceidwad](/docs/callings/ceidwad.mdx)
+  - [Lleidr](/docs/callings/lleidr.mdx)
+  - [Prydydd](/docs/callings/prydydd.mdx)
   - [Rhaglaw](/docs/callings/rhaglaw.mdx)
-  - [Lleidr]
-  - Ysgrifenydd
+  - [Rhingyll](/docs/callings/rhingyll.mdx)
+  - [Ysgrifennydd](/docs/callings/ysgrifennydd.mdx)
 - Chapter IV. Core Rules
   - [Basic Rules](/docs/core-rules/basic-rules.mdx)
   - [Combat](/docs/core-rules/combat.mdx)
