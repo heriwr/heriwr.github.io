@@ -29,7 +29,7 @@
   - [Seafaring](/docs/procedures/seafaring.mdx)
   - [Domains](/docs/procedures/domains.mdx)
   - [Factions](/docs/procedures/factions.mdx)
-  - [Structures](structures.mdx)
+  - [Structures](docs/procedures/structures.mdx)
   - [Downtime](/docs/procedures/downtime.mdx)
 - Chapter VI. Mynyddmor
   - [Gorsedd](/docs/mynyddmor/gorsedd.mdx)
