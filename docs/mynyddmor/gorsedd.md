@@ -64,6 +64,26 @@ Absolutely! Here's a fresh batch of unique details to make Gorsedd stand out:
 
 Let me know if you'd like even more ideas, or want to brainstorm how these details could inspire plot points and characters! 
 
+Here are some festival ideas for Gorsedd, drawing on the unique details and potential themes we've discussed:
+
+Major Festivals:
+
+* **Festival of the Deep:** This week-long celebration centers around Porth y Dyfnder, the sea gate. Think boat races, seafood feasts, blessings on ships for safe journeys, and vibrant displays of bioluminescent sea creatures.
+* **Forge-Lighting:** An annual event where the Sacred Forge is reignited. It could be a time of dwarven craftsmanship displays, fiery spectacles, and perhaps the creation of a single object of great significance for the city.
+* **Echo-Song:** This music-centric festival is less about melody and more about the haunting sounds of the city. Wind instruments, echoing chants, and percussive performances that resonate through the mountain's chambers would be key.
+* **Tower Bloom:** Tied to the blossoming of the White Tree in its courtyard. It might be a time of reflection, wisdom-sharing, storytelling, and perhaps even offerings or wishes placed within the tree's branches.
+
+Smaller, Quirky Festivals: 
+
+* **Lantern Fall Commemoration:** Based on the idea of lanterns cascading down the mountain, this could evolve into a smaller, more somber festival. Residents release personalized lanterns in memory of loved ones or to symbolize letting go of past burdens.
+* **Harvests of the Heights:** Perhaps certain high-altitude herbs or fruits are a delicacy in Gorsedd. This could be a smaller celebration with unique mountain-grown delicacies, competitions for climbing prowess, and even playful offerings left for the ravens of the Tower. 
+
+Additional Notes:
+
+* **Cross-Cultural Influences:**  Consider blending dwarven and human traditions for some festivals. 
+* **Seasonality:** Some festivals might be tied to solstices, harvests, or even rough sea conditions that make docking treacherous in winter. 
+* **Festival = Story Opportunities:** Think about what tensions might arise around these celebrations, what visitors they might attract, or if any age-old traditions become threatened. 
+
 
 ## Generating Gorsedd
 
