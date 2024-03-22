@@ -181,3 +181,33 @@ d6 what trade is the big money maker in the city?
 
 Mining rare gems,
 
+Here's a Welsh alternative to the Black Endoguard, drawing inspiration from Welsh mythology and folklore:
+
+**Name:** Gwylwyr Coch ("Red Watchers")
+
+**Appearance:** 
+
+* Clad in crimson cloaks that billow in the wind, with dark leather armor underneath.
+* Their faces are obscured by bronze helmets adorned with the fabled image of a red dragon (Y Ddraig Goch).
+* They carry a variety of fearsome weapons, including long spears tipped with barbed points and ornately carved axes.
+
+**Lore & Abilities:**
+
+*  **Cwn Annwn** (Hounds of Annwn): The Gwylwyr Coch are rumored to be not entirely human. Legends say they hail from the Otherworld (Annwn), a realm of spirits and the dead. This grants them exceptional resilience and an unnerving ability to sense evil or treachery.
+
+* **Druidic Magic:**  Imbued with the magic of ancient druids, the Gwylwyr Coch can call upon the power of nature to bolster their defenses or weaken their foes. Imagine sudden gusts of wind that unbalance attackers, or thick fog that disorients those with ill intent. 
+
+* **Unyielding Fury:**  Driven by a fierce sense of justice and a cold, unwavering loyalty to Gorsedd, the Gwylwyr Coch are relentless in pursuit of their targets. They fight with a terrifying fury, fueled by a connection to the primal forces of the world. 
+
+**Why Players Should Avoid Them:**
+
+* **No Bribes, No Mercy:** Unlike their Black Endoguard counterparts, the Gwylwyr Coch are utterly incorruptible. They see themself as instruments of fate, and any attempt to sway them with coin or promises will likely be met with swift and brutal justice.
+* **Hunters of the Unworthy:**  The Gwylwyr Coch possess an uncanny ability to sniff out those with darkness in their hearts. If the players have committed evil acts or harbor malicious intent within the city walls, they will be relentlessly pursued by the Red Watchers.
+* **Unholy Strength:**  Their connection to the Otherworld grants them unnatural strength and endurance. Even a small group of Gwylwyr Coch can be a formidable challenge for unprepared players.
+
+**Encounter Ideas:**
+
+* The players witness the Gwylwyr Coch apprehending a notorious criminal in a brutal but efficient display of force. This encounter can highlight their ruthlessness and unwavering sense of justice.
+* The party stumbles upon an ancient druidic ritual site that the Gwylwyr Coch are guarding. The players must navigate the situation carefully, avoiding any actions that might be misconstrued as a threat.
+* The Red Watchers are called upon to investigate a series of mysterious happenings within the city. The players might find themselves working alongside (or perhaps against) the Gwylwyr Coch to solve the case.
+ 
