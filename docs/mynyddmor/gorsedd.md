@@ -26,6 +26,34 @@ Research Recommendations:
 *   Conduct an environmental impact study on the presence of the city within the marine ecosystem
 *   Attempt to replicate the properties of the "seeing stone" for potential applications 
 
+Here's a breakdown of key areas to flesh out Gorsedd, along with some unique details for inspiration:
+
+**Governance, Power, & Social Structure:**
+
+*   **Mixed heritage:** The collaboration between humans and dwarves is core to Gorsedd's existence. How is this reflected in the city's ruling structure? Is there a council,  co-leadership, or does power rest solely with one race?  
+*   **Class Division:** Is there a clear hierarchy within the city? Are there separate districts for humans and dwarves? How does this play into tensions or dynamics? Does wealth play a defining social role?
+*   **Role of the Tower:** Does the Tower of Guard exert political power over the rest of Gorsedd, or is it more of a symbolic, military center?
+
+**Economic Engine:**
+
+*   **Beyond simple port life:**  What else drives the economy? Does the mountain hold vast mines central to Gorsedd's wealth? Are they famed for a unique craft or resource found only within the mountain?
+*   **Trade Routes:** What do they import vs what do they export? Where do their trade ships sail to? Are there rival port cities or trade agreements with other fantastical races?
+
+**Culture & Daily Life:** 
+
+*   **Religious Influence:** What deities/belief systems exist in Gorsedd? Are they tied to the sea, the mountain, the White Tree, or something else entirely?  Are there ornate temples or more humble worship practices?
+*   **Tavern Tales:** Imagine the stories, songs, and legends passed down in Gorsedd's pubs and markets. Are they about brave sea captains? Secret mountain tunnels? The city's founding?
+*   **Festivals:** Do they have celebratory events tied to the solstices, the tree, harvests, or historical victories? Think parades, costumes, unique foods! 
+
+**Unique Details to Bring Gorsedd to Life:**
+
+*   **Sea Bioluminescence:** Perhaps rare algae in the Gates of the Deep cause the water to glow at night, making docking a mesmerizing spectacle. 
+*   **Mountain Aviary:** Ravens trained as message carriers could nest high on the tower, visually connecting it to the rest of the city. 
+*   **Sacred Forge:** Dwarven master smiths might maintain a legendary forge deep within the mountain, its bellows causing the peak to faintly glow red on certain nights. 
+*   **Hidden Knowledge:** The White Tree Courtyard could be a place for scholars and philosophers, the city harboring a repository of collected wisdom.
+
+**Remember:** Don't provide answers to *all* of these questions in your worldbuilding. Leaving some open-ended invites mystery and room for stories to emerge! 
+
 
 ## Generating Gorsedd
 
