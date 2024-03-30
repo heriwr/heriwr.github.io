@@ -22,4 +22,18 @@ There are four stages of currency: handful (petty), pouch (1 slot), sack (2 slot
 ## Combat
 
 
+There are three distances in combat: melee, reach and ranged.
 
+You can have a light, standard or heavy weapon. 
+
+You can conceal a light weapon, but when you roll for damage you roll two six-sided dice and use the lowest result.
+
+Standard weapons just roll one six-sided dice for damage.
+
+Heavy weapons require both hands, and you have to put them down if you want to do anything else with your hands but when you roll for damage, you roll two six-sided dice and take the highest result.
+
+If you kill an enemy and your damage roll is higher than their health, the remaining damage is 
+
+If your weapon is **enchanted** you roll two six-sided dice and use the sum of both rolls for your damage. Enchantments are consumable, so roll 1d6 to see if your weapon is still enchanted.
+
+You can apply **oil** to your weapon, designed for use against a specific monster. Oil works like enchantment and can be combined to do a total damage of three six-sided dice.
