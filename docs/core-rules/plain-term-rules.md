@@ -21,7 +21,7 @@ There are four stages of currency: handful (petty), pouch (1 slot), sack (2 slot
 
 Each piece of Armour reduces the maximum damage done to you by 1, up to a maximum of 3.
 
-Armour is consumable. When a piece of armour is struck, roll 1d6 and if the result is 1, that piece of armour is gone.
+Armour is consumable. Your opponent will roll to see where they hit. When a piece of armour is struck, roll 1d6 and if the result is 1, that piece of armour is gone. If you aren't wearing armour, you roll on the **Death and Dismemberment** table for that area. For example, any roll of 6 to an unarmoured head is an instant kill, regardless of Life.
 
 ## Combat
 
