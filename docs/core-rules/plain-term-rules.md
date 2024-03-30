@@ -23,6 +23,8 @@ Each piece of Armour reduces the maximum damage done to you by 1, up to a maximu
 
 Armour is consumable. Your opponent will roll to see where they hit. When a piece of armour is struck, roll 1d6 and if the result is 1, that piece of armour is gone. If you aren't wearing armour, you roll on the **Death and Dismemberment** table for that area. For example, any roll of 6 to an unarmoured head is an instant kill, regardless of Life.
 
+So, if you have chest armour, a shield and a helmet you have three Armour. You can choose for your shield to shatter in place of taking full damage - useful if you've just been struck by an enchanted weapon for 12 damage!
+
 ## Combat
 
 
@@ -46,7 +48,7 @@ Melee weapons can attack only in melee. Ranged can only attack in ranged, and re
 
 ## Magic
 
-You have **Magic Dice**, equal to your training in Magic. A Novice has 1 magic dice, an adept has two, an expert has three and a master has four.
+You have four **Magic Dice**. When you cast a spell, you can use one Magic Dice per person or object you want to affect. You can only cast spells on things you can see or touch. One magic die is equal to a 10ft area.
 
-Wearing Robes increases your Magic Dice by 1, and each piece of armour reduces your Magic Dice by 1.
+Wearing Robes increases your Magic Dice by 1.
 
