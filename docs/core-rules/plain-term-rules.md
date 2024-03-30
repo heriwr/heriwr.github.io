@@ -9,7 +9,7 @@ Guard is more abstract. It represents your ability to perceive threats, defend y
 In combat, you take damage to your Guard first, and then your Life when you have no Guard left. 
 
 
-Inventory & Consumables
+## Inventory & Consumables
 
 You have 10 slots of inventory, including your hands, body, head and belt. Each piece of equipment takes up one slot, unless it is petty. Some items take up more slots.
 
@@ -18,4 +18,8 @@ Whenever you use equipment like lockpicks or a torch, you roll one six-sided die
 Whenever you buy something, you roll 1d6 and if the result is 1 you downgrade your currency. The smallest amount of currency you can have is a handful of copper coins and the most is a chest of gold.
 
 There are four stages of currency: handful (petty), pouch (1 slot), sack (2 slots) and chest (4 slots). A chest of copper coins can be traded for a handful of silver coins.
+
+## Combat
+
+
 
